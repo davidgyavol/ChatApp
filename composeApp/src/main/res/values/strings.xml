@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="cd_navigate_back">Back</string>
+    <string name="cd_switch_users">Switch users</string>
+    <string name="cd_send">Send</string>
+    <string name="no_messages">No messages yet</string>
+</resources>
